@@ -1,5 +1,5 @@
 <?php
-namespace Tests\Zend\Validate;
+namespace Tests\Zend\Acl;
 
 class AclTest extends \Tests\TestCase
 {
